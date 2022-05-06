@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Antgenix1
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on all my diffrent Projects
+- 📫 How to reach me antgenix.magaming@gmail.com
